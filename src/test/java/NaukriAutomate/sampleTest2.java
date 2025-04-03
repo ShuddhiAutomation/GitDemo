@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class sampleTest {
+public class sampleTest2 {
 
 	@Test
 	public static void Testingtestng1() throws IOException, InterruptedException {
@@ -23,5 +23,6 @@ public class sampleTest {
 		
 		Runtime.getRuntime().exec("D:\\Software\\Filedata\\FileUpload.exe");
 
+		
 	}
 }
