@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="NaukriAutomate.Naukri_LoginTest"/>
+      <class name="NaukriAutomate.testjenkins4"/>
       <class name="NaukriProject.NaukriProject.AppTest"/>
       <class name="NaukriAutomate.sampleTest"/>
       <class name="NaukriAutomate.testjenkins2"/>
