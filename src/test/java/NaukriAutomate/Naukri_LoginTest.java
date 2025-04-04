@@ -69,7 +69,8 @@ public class Naukri_LoginTest {
 	public static void SendKeys(WebDriver driver, String Xpath, String value) {
 		driver.findElement(By.xpath(Xpath)).sendKeys(value);
 	}
-
+  
+	
 	@AfterTest
 	public void stop() {
 		//driver.quit();
