@@ -23,6 +23,5 @@ public class sampleTest2 {
 		
 		Runtime.getRuntime().exec("D:\\Software\\Filedata\\FileUpload.exe");
 
-		
 	}
 }
