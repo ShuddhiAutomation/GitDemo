@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results ignored="0" total="6" passed="4" failed="2" skipped="0">
   <reporter-output>
@@ -177,3 +178,26 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-04T11:29:18 IST" name="Default suite" finished-at="2025-04-04T11:30:03 IST" duration-ms="45129">
+    <groups>
+    </groups>
+    <test started-at="2025-04-04T11:29:18 IST" name="Default test" finished-at="2025-04-04T11:30:03 IST" duration-ms="45129">
+      <class name="NaukriAutomate.Naukri_LoginTest">
+        <test-method signature="Login()[pri:0, instance:NaukriAutomate.Naukri_LoginTest@1349883]" started-at="2025-04-04T11:29:18 IST" name="Login" finished-at="2025-04-04T11:30:03 IST" duration-ms="45077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:NaukriAutomate.Naukri_LoginTest@1349883]" started-at="2025-04-04T11:30:03 IST" name="stop" finished-at="2025-04-04T11:30:03 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- NaukriAutomate.Naukri_LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
+>>>>>>> main
