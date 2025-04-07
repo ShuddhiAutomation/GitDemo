@@ -16,12 +16,13 @@ public class sampleTest {
 		driver.get("file:///C:/Users/megha/Desktop/Fileuplad.html");
 		Thread.sleep(8000);
 
-		driver.findElement(By.xpath("//input[@type='file']")).click();
-		 Thread.sleep(5000);
-		
-		//driver.findElement(By.xpath("//input[@name='resumeupload']")).click();
-		
-		Runtime.getRuntime().exec("D:\\Software\\Filedata\\FileUpload.exe");
-
+		/*
+		 * driver.findElement(By.xpath("//input[@type='file']")).click();
+		 * Thread.sleep(5000);
+		 * 
+		 * //driver.findElement(By.xpath("//input[@name='resumeupload']")).click();
+		 * 
+		 * Runtime.getRuntime().exec("D:\\Software\\Filedata\\FileUpload.exe");
+		 */
 	}
 }
