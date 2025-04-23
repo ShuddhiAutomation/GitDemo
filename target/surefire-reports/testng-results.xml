@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-15T21:50:59 IST" name="Suite" finished-at="2023-12-15T21:50:59 IST" duration-ms="38">
+    <groups>
+    </groups>
+    <test started-at="2023-12-15T21:50:59 IST" name="Test" finished-at="2023-12-15T21:50:59 IST" duration-ms="38">
+      <class name="McafeeProject.Mercury.KnowledgeTest">
+        <test-method signature="KT1()[pri:0, instance:McafeeProject.Mercury.KnowledgeTest@6580cfdd]" started-at="2023-12-15T21:50:59 IST" name="KT1" finished-at="2023-12-15T21:50:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KT1 -->
+        <test-method signature="KT2()[pri:0, instance:McafeeProject.Mercury.KnowledgeTest@6580cfdd]" started-at="2023-12-15T21:50:59 IST" name="KT2" finished-at="2023-12-15T21:50:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KT2 -->
+      </class> <!-- McafeeProject.Mercury.KnowledgeTest -->
+      <class name="McafeeProject.Mercury.CaseCreationTest">
+        <test-method signature="CT1()[pri:0, instance:McafeeProject.Mercury.CaseCreationTest@7e0b85f9]" started-at="2023-12-15T21:50:59 IST" name="CT1" finished-at="2023-12-15T21:50:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CT1 -->
+        <test-method signature="CT2()[pri:0, instance:McafeeProject.Mercury.CaseCreationTest@7e0b85f9]" started-at="2023-12-15T21:50:59 IST" name="CT2" finished-at="2023-12-15T21:50:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CT2 -->
+      </class> <!-- McafeeProject.Mercury.CaseCreationTest -->
+      <class name="McafeeProject.Mercury.VoiceCallTest">
+        <test-method signature="VC1()[pri:0, instance:McafeeProject.Mercury.VoiceCallTest@10e41621]" started-at="2023-12-15T21:50:59 IST" name="VC1" finished-at="2023-12-15T21:50:59 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VC1 -->
+        <test-method signature="VC2()[pri:0, instance:McafeeProject.Mercury.VoiceCallTest@10e41621]" started-at="2023-12-15T21:50:59 IST" name="VC2" finished-at="2023-12-15T21:50:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VC2 -->
+      </class> <!-- McafeeProject.Mercury.VoiceCallTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
